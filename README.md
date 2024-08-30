@@ -23,7 +23,7 @@ Program to implement the simple linear regression model for predicting the marks
 Developed by: DEVA DHARSHINI.I
 RegisterNumber:  212223240026
 */
-```
+
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
@@ -70,7 +70,8 @@ print("RMSE= ",rmse)
 
 ## Output:
 DATA SET
-![Screenshot 2024-08-30 172220](https://github.com/user-attachments/assets/d2bd9485-b6b9-4576-b6af-d1942792a5e3)
+![Screenshot 2024-08-24 150424](https://github.com/user-attachments/assets/dd9b28b1-6933-4642-9dba-609b3492e2c9)
+
 
 TAIL VALUES
 ![Screenshot 2024-08-30 172332](https://github.com/user-attachments/assets/c2696b83-6c33-41cc-b4eb-b92f77b5a69d)
