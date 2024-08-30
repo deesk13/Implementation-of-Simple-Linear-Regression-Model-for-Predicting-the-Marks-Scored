@@ -73,22 +73,22 @@ DATA SET
 ![Screenshot 2024-08-24 150424](https://github.com/user-attachments/assets/dd9b28b1-6933-4642-9dba-609b3492e2c9)
 
 
-TAIL VALUES
+##TAIL VALUES
 ![Screenshot 2024-08-30 172332](https://github.com/user-attachments/assets/c2696b83-6c33-41cc-b4eb-b92f77b5a69d)
 
-X AND Y VALUES
+##X AND Y VALUES
 ![Screenshot 2024-08-30 172456](https://github.com/user-attachments/assets/030053f1-3b11-4729-b83d-388311e891e1)
 
-PREDICTION VALUE OF X AND Y
+##PREDICTION VALUE OF X AND Y
 ![image](https://github.com/user-attachments/assets/04c96b8a-86fc-4e62-903e-ec5b4a30751d)
 
-MSE, MAE, RMSE
+##MSE, MAE, RMSE
 ![Screenshot 2024-08-30 172538](https://github.com/user-attachments/assets/3845ab57-7aa2-4f07-bbb6-a7396c070e69)
 
-TRAINING SET
+##TRAINING SET
 ![Screenshot 2024-08-30 172719](https://github.com/user-attachments/assets/9d19f9d6-6bb9-4f4a-98b1-0bc4ee25cb5f)
 
-TESTING SET
+##TESTING SET
 ![Screenshot 2024-08-30 172732](https://github.com/user-attachments/assets/c40610a5-c05d-4ccb-b047-f9f7ca121fe6)
 
 ## Result:
